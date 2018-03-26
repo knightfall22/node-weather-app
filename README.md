@@ -1,2 +1,2 @@
 # node-weather-app
-# use npm install to install dependencies
+ use npm install to install dependencies
